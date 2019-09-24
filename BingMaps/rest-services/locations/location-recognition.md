@@ -56,7 +56,9 @@ For more information about the location entity types, see  [Location Recognition
 
 ## Response
 
-One or more entities are returned in the response when you make a request using this URL 
+One or more entities are returned in the response when you make a request using this URL. 
+
+
 |Field Name|Description|  
 |----------------|-----------|
 |`businessesAtLocation`|List of businessAddress & businessInfo elements representing the businesses or named venues found within the specified search radius.|
